@@ -1,0 +1,14 @@
+CLÓVIS X LOTUS - VERSÃO OFFLINE CORRIGIDA
+
+Extraia todo o ZIP e abra index.html no navegador.
+O PDF e a fonte Arial estão incorporados em assets/embedded.js.
+Não precisa de servidor local nem conexão com a internet para gerar o PDF.
+Mantenha a pasta assets junto dos arquivos HTML, CSS e JavaScript.
+
+Para publicar, envie todo o conteúdo extraído para a pasta pública da hospedagem.
+O formulário funciona como site estático, sem banco de dados e sem instalação de pacotes.
+O endereço externo das regras precisa de internet para ser aberto.
+
+VISUAL: bordas com brilho dourado pulsante suave. A animação respeita a preferência de movimento reduzido do dispositivo.
+
+CORREÇÃO: modelo PDF com texto selecionável e linhas sob a data.
